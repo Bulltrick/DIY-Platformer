@@ -1,0 +1,19 @@
+
+diy-texture-v1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+create
+  rotate: false
+  xy: 1, 18
+  size: 240, 74
+  orig: 240, 74
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 243, 1
+  size: 185, 91
+  orig: 185, 91
+  offset: 0, 0
+  index: -1
